@@ -20,7 +20,7 @@ Forohub es una aplicación web que permite a los usuarios crear, mostrar, actual
 
 1. Clona el repositorio:
     ```bash
-    git clone <URL_DEL_REPOSITORIO>
+    git clone https://github.com/VicMosojeda/forohub
     cd forohub
     ```
 
